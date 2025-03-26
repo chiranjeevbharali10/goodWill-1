@@ -19,6 +19,7 @@ interface DonorData {
   availability: Date | undefined;
   address: string;
   recentlyDonated: string;
+  new: string; 
 }
 
 export const BloodDonationForm = () => {
