@@ -16,7 +16,7 @@ GoodWill is a mobile application designed to connect blood donors and recipients
 - **Backend**: Firebase (Realtime Database, Cloud Messaging, Authentication)
 - **APIs & Services**:
   - OpenStreetMap API (location-based services)
-  - Twilio (SMS-based interactions)
+  - Twilio (SMS-based interactions)f
   - Firebase Cloud Messaging (instant notifications)
 
 ## Usage
